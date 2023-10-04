@@ -1,4 +1,1 @@
-const shivam = 49
-let kumar = "shivam"
-var shiv = 84
-
+shivam = 47
