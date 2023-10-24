@@ -54,5 +54,3 @@ let val1;
 
 // ternary operator: ? (question mark)
 // condition ? true : false;
-
-
